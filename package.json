@@ -72,7 +72,7 @@
     "@lobehub/ui": "^1.141.0",
     "@rollup/rollup-win32-x64-msvc": "^4.18.0",
     "ahooks": "^3.8.0",
-    "antd": "5.17.0",
+    "antd": "5.23.1",
     "antd-style": "^3.6.2",
     "consola": "^3.2.3",
     "dayjs": "^1.11.11",
